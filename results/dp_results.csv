@@ -1,0 +1,7 @@
+algorithm,input_size,avg_ms,result
+LCS,100,0,054960,64
+EditDistance,100,0,070700,55
+LCS,500,0,868840,326
+EditDistance,500,1,248960,267
+LCS,1000,3,861820,648
+EditDistance,1000,5,080240,521
